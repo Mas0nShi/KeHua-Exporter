@@ -44,3 +44,6 @@ python export.py
 ```
 
 4. wait for a while, all of your data will be saved in the `output` folder.
+
+
+![preview](./preview.jpg)
