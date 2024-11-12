@@ -6,7 +6,7 @@ A eazy script to export **all** posts,notes,activities,images,videos from [KeHua
 
 KeHua is a great app to record all of f**king life, it's free, simple, interesting, even no ads in the past years. But now, it's time to say goodbye :-(
 
-They add a fucking **VIP** feature, and don't care new features from users want, just want to make money.
+They add a fucking **VIP** feature, and don't care new features from users want, just want to make money / no enough cash to maintain. Obviously, this is not the user's concern.
 
 Well, I don't want to pay for it, and I don't want to lose my data. So I write this script to export all of my data.
 
