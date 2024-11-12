@@ -1,0 +1,5 @@
+.env
+assets
+.venv
+output
+__pycache__
